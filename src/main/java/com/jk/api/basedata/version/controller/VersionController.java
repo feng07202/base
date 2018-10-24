@@ -45,7 +45,7 @@ public class VersionController  extends AbstractController{
 
     */
 /**
-     * 获取当前的头信息
+     * 获取当前的头信息没水城
      * @param request
      * @param response
      * @return
