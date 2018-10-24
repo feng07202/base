@@ -34,6 +34,7 @@ public class BannerController extends AbstractController {
      * @author:zhangzhengguang
      * @date:2017/10/26
      * @description:查询banner列表
+     * 测试111
      **/
     @RequestMapping(value = "/listBanner", method = RequestMethod.GET)
     public
