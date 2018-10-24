@@ -17,11 +17,6 @@
 
         <dependency>
             <groupId>com.jk</groupId>
-            <artifactId>jk-framework-base</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.jk</groupId>
             <artifactId>jk-framework-dao</artifactId>
         </dependency>
         <dependency>
